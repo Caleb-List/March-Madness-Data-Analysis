@@ -10,6 +10,6 @@ This is the pdf of all original data used before having being exported to a pdf.
 All formulas were written down and re replicated in the 2024 March Madness Excel sheet and the past analyzed data was inputed in.
 
 ### Java Tournament Simulator Code
-This code runs simulations of the 2024 tournemnt using the data gathered for each teams "Ranking Points" and uses specified upper and lower bounds to run various simulations with a specified variance based on how high or low you put the upper and lower bounds for the random variance
+This code runs simulations of the 2024 tournemnt using the data gathered for each teams "Ranking Points" and uses specified upper and lower bounds to run various simulations with a specified variance based on how high or low you put the upper and lower bounds for the random variance. This code is located in the branch labeled "master".
 
 
